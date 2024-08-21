@@ -2,6 +2,8 @@
 
 # Coding-with-Gamification
 ## contact address : 0xa7C5C2E85aAD6aFAd588793426a5a30a5711A102
+![Uploading image.png…]()
+
 ## Project Description
 
 **Coding with Gamification** is an innovative project designed to integrate game-like elements into the coding education process. This platform aims to make learning programming more engaging and motivating by incorporating various gamification techniques. By turning coding challenges and educational content into interactive and rewarding experiences, the project seeks to enhance the learning journey for individuals of all skill levels.
