@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c865b176-cef3-4127-8fee-4e077a4ecea4)
+
 # Coding-with-Gamification
 
 ## Project Description
