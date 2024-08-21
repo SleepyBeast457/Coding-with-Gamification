@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/1b58003e-ea0d-44bf-8ae3-9b7f7b0f86b1)
+![image](https://github.com/user-attachments/assets/d1a974a7-f540-4cc9-8803-6df242683421)
+
 
 
 # Coding-with-Gamification
