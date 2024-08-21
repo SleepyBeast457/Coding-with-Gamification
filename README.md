@@ -27,4 +27,3 @@ Our vision is to transform the way programming is taught and learned by integrat
 
 ---
 
-For more information, to contribute, or to get involved, please reach out to us. Join us in making coding education more engaging and fun through gamification!
