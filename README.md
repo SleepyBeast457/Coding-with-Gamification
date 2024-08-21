@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/c865b176-cef3-4127-8fee-4e077a4ecea4)
 
 # Coding-with-Gamification
-## contact address : 0xa7C5C2E85aAD6aFAd588793426a5a30a5711A102![image](https://github.com/user-attachments/assets/bc12ea75-3b89-4f20-b1b0-4e2cfebb24bc)
+## contact address : 0xa7C5C2E85aAD6aFAd588793426a5a30a5711A102
 ![image](https://github.com/user-attachments/assets/2bce75f3-86a9-462a-97be-bbbec638202b)
 
 
